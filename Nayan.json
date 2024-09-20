@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "𝙹𝚄𝙱𝙰𝚈𝙴𝚁-𝙱𝙾𝚃=/🩷🪽",
-  "PREFIX": "!",
+  "BOTNAME": "𝙰𝚁𝙰𝙵𝙰𝚃-𝙱𝙾𝚃=/🩷🪽",
+  "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100092747803433",
-    ""
+    "61555497825270",
+    "100092747803433"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
